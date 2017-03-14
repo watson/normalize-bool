@@ -1,0 +1,37 @@
+{
+  "name": "normalize-bool",
+  "version": "0.0.0",
+  "description": "Converts strings representing an on/off-state to booleans",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^9.0.1",
+    "tape": "^4.6.3"
+  },
+  "scripts": {
+    "test": "standard && node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/watson/normalize-bool.git"
+  },
+  "keywords": [
+    "bool",
+    "boolean",
+    "on",
+    "off",
+    "enabled",
+    "disabled",
+    "convert",
+    "converter",
+    "config",
+    "environment",
+    "variable"
+  ],
+  "author": "Thomas Watson Steen <w@tson.dk> (https://twitter.com/wa7son)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/watson/normalize-bool/issues"
+  },
+  "homepage": "https://github.com/watson/normalize-bool#readme"
+}
