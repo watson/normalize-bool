@@ -1,6 +1,6 @@
 {
   "name": "normalize-bool",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Converts strings representing an on/off-state to booleans",
   "main": "index.js",
   "dependencies": {},
@@ -33,5 +33,9 @@
   "bugs": {
     "url": "https://github.com/watson/normalize-bool/issues"
   },
-  "homepage": "https://github.com/watson/normalize-bool#readme"
+  "homepage": "https://github.com/watson/normalize-bool#readme",
+  "coordinates": [
+    55.6811712,
+    12.5645725
+  ]
 }
